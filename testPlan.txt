@@ -1,0 +1,54 @@
+Objective
+
+To observe what happens when the program's array characters/numbers are changed. 
+
+Scope 
+
+The features to be tested are the sorting functions merge and mergeSort. 
+Not the print function. However the print function will be used to display results. 
+
+Test Acceptance Criteria 
+
+The program will be considered accepted if it passes 
+the the test cases T1, T2, and T4. 
+
+Entry/Exit criteria 
+
+Testing starts at the test case T1, and ends once the test case T4 is completed. 
+
+Test Schedule
+
+T1 completed in 5 minutes. 
+T2 completed in 5 minutes.
+T3 completed in 5 minutes. 
+T4 completed in 5 minutes. 
+
+Test Strategy
+
+Testing will be conducted manually. 
+
+Resources
+
+One person required for testing. Time required is 30 minutes.
+Will need an interactive development environment (IDE) that supports
+C++. 
+
+Test Environment 
+
+Codeblocks IDE
+
+Test Cases
+
+T1 = Check if program can sort an array of positive numbers 
+in ascending order. 
+T2 = Check if program can sort an array of negative numbers
+in ascending order. 
+T3 = Check if program can sort an array of roman alphabet symbols
+in ascending order. 
+T4 = Check if program can sort an array with positive numbers and
+a zero. 
+
+Assumptions 
+
+T1, T2, T3, and T4 are going to provide actual results equal
+to expected results as per the test case document. 
