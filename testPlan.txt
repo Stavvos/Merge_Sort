@@ -46,7 +46,7 @@ in ascending order.
 T3 = Check if program can sort an array of roman alphabet symbols
 in ascending order. 
 T4 = Check if program can sort an array with positive numbers and
-a zero. 
+a zero in ascending order. 
 
 Assumptions 
 
