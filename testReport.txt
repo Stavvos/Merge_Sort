@@ -1,0 +1,4 @@
+The T1, T2, and T4 test cases produced results that were expected. 
+However, the T3 test case did not. The array of roman letters was
+arranged in ascending order, or alphabetical order which was surprising.
+It's likely this worked because of ASCII values. 
