@@ -5,9 +5,6 @@ class MergeSort{
 
 public:
 
-MergeSort(){
-
-}
 
 void merge (int array[], int front, int mid, int rear);
 void mergeSort(int array[], int front2, int rear2);
