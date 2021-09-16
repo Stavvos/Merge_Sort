@@ -1,4 +1,74 @@
+Purpose of the report
+
+This report explains activites that were performed during the testing
+of the Merge_Sort program. 
+
+
+Application overview 
+
+The Merge_Sort program is a simple program written in C++ which
+demonstrates the merge sort algorithm. 
+
+
+Testing Scope 
+
+
+In-Scope: If the program can arrange an array of positive number values, negative number values,
+roman alphabet values, and positive values including a zero. 
+
+Out of Scope: No performance testing such as speed or scalability was performed. 
+
+Items not tested: The print function was not tested, however it did display the results
+of the arrays after the merge sort function was called. 
+
+
+Metrics 
+
+Number of cases planned = 4. 
+Number of cases tested = 4.
+Number of fails = 1. 
+Severity of fail = Not severe. 
+
+
+Type of testing performed 
+
+One round of Manual testing
+
+
+Test environment 
+
+The test was performed using the interactive development environment(IDE) Code::Blocks.
+
+
+Recommendations 
+
+
+The results of the test cases indicate no changes are needed. However, it's recommended that the constructor is removed as 
+it's not needed for this program. 
+
+
+Best practices 
+
+Manual testing was time consuming, it is recommeneded that test automation should be used in the 
+future. 
+
+
+Exit criteria 
+
+All test cases are executed = yes. 
+Results of test recorded = yes. 
+Any important errors resolved = yes. 
+
+
+Conclusion 
+
+
 The T1, T2, and T4 test cases produced results that were expected. 
 However, the T3 test case did not. The array of roman letters was
 arranged in ascending order, or alphabetical order which was surprising.
-It's likely this worked because of ASCII values. 
+It's likely this worked because of ASCII values.
+
+manual testing is slow and limiting, learning automated testing would be beneficial for future projects. 
+
+
+
